@@ -344,12 +344,6 @@ ul {
     padding: 100px 0;
 }
 
-.footer-container {
-    display: flex;
-    flex-direction: column;
-    
-}
-
 .footer-logo {
     display: inline-block;
     margin-bottom: 16px;
