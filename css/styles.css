@@ -351,6 +351,8 @@ ul {
 }
 
 .footer-logo {
+    display: inline-block;
+    margin-bottom: 16px;
     font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
@@ -358,10 +360,8 @@ ul {
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;
-    display: inline-block;
     margin-bottom: 16px;
-    display: inline-block;
-    }
+}
 
 .footer-logo:focus {
     color: #4D5AE5;
